@@ -1,40 +1,8 @@
 {
-    "blog":[
-        {
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-              "genre": "fiction",
-              "edition": "2021",
-              "publisher": "Bloomsbury",
-              "cost": 1299,
-              "borrowed": false,
-              "id":1
-        },
-
-        {
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "My book",
-            "author": "mr me",
-                "genre": "action",
-                "edition": "2021",
-                "publisher": "Bloom",
-                "cost": 19,
-                "borrowed": false,
-                "id":2
-          }
+    "hotels":[
+       
       ],
-      "wishlist":[
-        {
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1299,
-                "borrowed": false,
-                "id":1
-          }
+      "users":[
+       
       ]
 }
